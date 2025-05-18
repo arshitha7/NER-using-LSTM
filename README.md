@@ -95,10 +95,12 @@ def train_model(model, train_loader, test_loader, loss_fn, optimizer, epochs=3):
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
+![image](https://github.com/user-attachments/assets/d071c8bb-a96b-4e1e-bef2-fe9c461e1384)
 
 
 
 ### Sample Text Prediction
+![image](https://github.com/user-attachments/assets/b5a846a9-fab9-4f68-8329-79264d4035a4)
 
 ## RESULT
 Thus the LSTM-based Named Entity Recognition (NER) model was successfully developed and trained.
